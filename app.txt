@@ -1,0 +1,6 @@
+Hello Git
+Good day
+How are you
+Fourth Line
+New Line
+HAHAHA
